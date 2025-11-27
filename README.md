@@ -1,0 +1,2 @@
+# .github
+Gambit Software LLC
